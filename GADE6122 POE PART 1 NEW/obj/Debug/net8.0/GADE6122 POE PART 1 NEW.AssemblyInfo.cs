@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GADE6122 POE PART 1 NEW")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbef1fa47341260ae46ce5afbe7f432baac9c7e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GADE6122 POE PART 1 NEW")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GADE6122 POE PART 1 NEW")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
