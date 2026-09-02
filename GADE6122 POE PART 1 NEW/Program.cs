@@ -8,6 +8,7 @@
             Console.WriteLine("Jajajajajaj");
             Console.WriteLine("Jajajjajaja");
             Console.WriteLine("Goodbye!");
+            Console.WriteLine("Goodbye!");
         }
     }
 }
