@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\zaina\\OneDrive\\Documents\\GADE6122 POE\\Gade6122-POE-Part-1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63093216-382D-4D63-9B40-0BB8FC10F55E}|GADE6122 POE PART 1 NEW\\GADE6122 POE PART 1 NEW.csproj|c:\\users\\zaina\\onedrive\\documents\\gade6122 poe\\gade6122-poe-part-1\\gade6122 poe part 1 new\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63093216-382D-4D63-9B40-0BB8FC10F55E}|GADE6122 POE PART 1 NEW\\GADE6122 POE PART 1 NEW.csproj|solutionrelative:gade6122 poe part 1 new\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{63093216-382D-4D63-9B40-0BB8FC10F55E}|GADE6122 POE PART 1 NEW\\GADE6122 POE PART 1 NEW.csproj|c:\\users\\zaina\\onedrive\\documents\\gade6122 poe\\gade6122-poe-part-1\\gade6122 poe part 1 new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63093216-382D-4D63-9B40-0BB8FC10F55E}|GADE6122 POE PART 1 NEW\\GADE6122 POE PART 1 NEW.csproj|solutionrelative:gade6122 poe part 1 new\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,25 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\zaina\\OneDrive\\Documents\\GADE6122 POE\\Gade6122-POE-Part-1\\GADE6122 POE PART 1 NEW\\Position.cs",
-              "RelativeDocumentMoniker": "GADE6122 POE PART 1 NEW\\Position.cs",
-              "ToolTip": "C:\\Users\\zaina\\OneDrive\\Documents\\GADE6122 POE\\Gade6122-POE-Part-1\\GADE6122 POE PART 1 NEW\\Position.cs",
-              "RelativeToolTip": "GADE6122 POE PART 1 NEW\\Position.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-03T11:52:06.355Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\zaina\\OneDrive\\Documents\\GADE6122 POE\\Gade6122-POE-Part-1\\GADE6122 POE PART 1 NEW\\Program.cs",
               "RelativeDocumentMoniker": "GADE6122 POE PART 1 NEW\\Program.cs",
               "ToolTip": "C:\\Users\\zaina\\OneDrive\\Documents\\GADE6122 POE\\Gade6122-POE-Part-1\\GADE6122 POE PART 1 NEW\\Program.cs",
               "RelativeToolTip": "GADE6122 POE PART 1 NEW\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-02T18:20:34.347Z",
               "EditorCaption": ""
