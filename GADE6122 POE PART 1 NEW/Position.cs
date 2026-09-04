@@ -6,16 +6,19 @@ using System.Threading.Tasks;
 
 namespace GADE6122_POE_PART_1_NEW
 {
-    internal class Position
+    public class Position
     {
-        private int x;
-        private int y;
+        //Fields of position class for X and Y values
+        private int x;//x interger field
+        private int y;//y interger field
 
+        //Constructor of position class accepting parameters
         public Position(int x, int y) 
         {
-            this.x = x; 
-            this.y = y;
+           this.x = x; 
+           this.y = y;
         }
+        //Properties of Position Class
         public int X 
         {
             get 
