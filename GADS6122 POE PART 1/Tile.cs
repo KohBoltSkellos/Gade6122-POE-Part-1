@@ -11,6 +11,7 @@ namespace GADE6122_POE_PART_1_NEW
         //Fields of Tile class
         private Position Pos;
         private int x, y;
+        private String type;
 
         //constructor 
         public Tile(Position posTile)
@@ -35,6 +36,19 @@ namespace GADE6122_POE_PART_1_NEW
             set {  y = value; }
 
         }
+
+        public String getTileType ()
+        {
+             return type;
+
+            
+        }
+
+        public void setTileType(String t)
+        {
+            type = t;
+        }
+        
 
         public abstract char Display 
         {
